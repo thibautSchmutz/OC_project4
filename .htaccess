@@ -1,0 +1,15 @@
+#------------------------------#
+# Gestion de la mise en cache  #
+#------------------------------#
+
+<IfModule mod_expires.c>
+        
+        ExpiresActive on
+          
+        ExpiresByType image/jpg "access plus 1 weeks"
+        ExpiresByType image/png "access plus 1 weeks"
+          
+        ExpiresByType text/css "access plus 1 week"
+        ExpireByType text/js "access plus 2 hours"
+        
+</IfModule>
