@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("newimg/texture-paper-280x280.png");
     background-size: 280px 280px;
 }
 
@@ -814,7 +814,7 @@ h4 {
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("newimg/lines-h2.png");
 }
 
 .bg-banniere {
