@@ -1058,6 +1058,10 @@ h4 {
     }
 }
 
+#presentation-paragraph-contact {
+    margin-top: 20px;
+}
+
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
