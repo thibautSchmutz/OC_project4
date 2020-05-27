@@ -7,6 +7,5 @@ Outils utilisés : [GT-Metrix](https://gtmetrix.com/), [Wave](https://wave.webai
 - ##### Recommandations et amélioration du SEO et de l'accessibilité
 Retrouver la liste complète sur le [projet KANBAN](https://github.com/thibautSchmutz/OC_project4/projects/1) du repository Github.
 - ##### Comparaison des résultats. 
-Moyenne attribuée par Lighthouse avant modifications : **88,25**/100 </ br>
-Moyenne attribuée par Lighthouse après modifications : **97**/100 </ br>
-*Score comprenant **Best practice**, **SEO**, **Performance** et **Accessibilité***
+Avant modifications : **88,25**/100 • Après modifications : **97**/100
+> *Score comprenant **Best practice**, **SEO**, **Performance** et **Accessibilité***
